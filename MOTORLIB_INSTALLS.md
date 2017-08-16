@@ -16,5 +16,6 @@ SDK
 
 ## EYELINK 1000
 EYELINK DEVKIT WINDOWS
+- https://drive.google.com/file/d/0BxatK_9WQ--eanUxUVhBdDh0V1E  (others dont seem to work on university network)
 - http://download.sr-support.com/displaysoftwarerelease/EyeLinkDevKit_Windows_1.11.5.zip
 - http://www.sr-research.com/devkit.html
