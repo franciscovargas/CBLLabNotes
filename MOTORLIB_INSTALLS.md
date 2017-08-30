@@ -2,7 +2,7 @@
 
 ## Polhemus
 PDI.lib (dlls + drivers etc)
-- ftp://ftp.polhemus.com/pub/Product%20Drivers/LIBERTY%20Product%20Family/SWD-23402-37-2.0.2-LbtyUSBDrvPkgInstall.exe
+- ftp://ftp.polhemus.com/pub/Product Drivers/LIBERTY Product Family/SWD-23402-37-2.0.2-LbtyUSBDrvPkgInstall.exe
 - ftp://ftp.polhemus.com/pub/Standalone/SWD-PS08-08-4.3.0-PISDKSetup.exe
 
 ## Sensoray development kit (826)
